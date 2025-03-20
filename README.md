@@ -6,7 +6,7 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 
 ### 💡 Most Used Languages:
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mikerock51&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats-one-tau-18.vercel.app/api/top-langs/?username=mikerock51&layout=compact&theme=radical)
 
 ### 📊 GitHub Stats:
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=mikerock51)](https://github.com/mikerock51/github-readme-stats&theme=radical)
+[![GitHub stats](https://github-readme-stats-one-tau-18.vercel.app/api?username=mikerock51)](https://github.com/mikerock51/github-readme-stats&theme=radical)
