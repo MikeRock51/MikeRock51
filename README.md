@@ -1,7 +1,12 @@
 # 👨‍💻 Michael Adebayo
 
 ## 👋 About Me
-Software Engineer passionate about building robust and scalable applications. I enjoy solving complex problems and continuously learning new technologies.
+Adept Backend Engineer with a proven track record, enhancing system
+performance and scalability through advanced system and database optimization.
+
+Excelled in environments
+demanding proficiency in cloud architectures and DevOps practices, alongside a
+commitment to continuous improvement and innovation
 
 ## 🛠️ Skills & Technologies
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
@@ -29,9 +34,10 @@ Software Engineer passionate about building robust and scalable applications. I 
 
 ## 🌐 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/michael-adebayo-637507251)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:mikerockmusic51@gmail.com)
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/Mike_Rock1)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=react&logoColor=white)](https://mike-rock-pearl.vercel.app)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:mikerockmusic51@gmail.com)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/mike_rock_musick)
 
 ---
 
