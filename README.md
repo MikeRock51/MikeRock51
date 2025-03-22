@@ -29,6 +29,7 @@ commitment to continuous improvement and innovation
 ![GCP](https://img.shields.io/badge/-GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![DevOps](https://img.shields.io/badge/-DevOps-FF5733?style=flat-square&logo=devops&logoColor=white)
 
 ## 📈 GitHub Stats
 
