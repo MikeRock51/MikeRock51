@@ -1,12 +1,8 @@
 # 👨‍💻 Michael Adebayo
 
 ## 👋 About Me
-Adept Backend Engineer with a proven track record, enhancing system
-performance and scalability through advanced system and database optimization.
+Experienced Backend Engineer with a strong track record of optimizing system performance, enhancing scalability, and delivering robust backend solutions. Skilled in architecting and fine-tuning cloud-based infrastructures and databases to support high-performance applications. Adept at implementing DevOps best practices, driving continuous integration and delivery, and fostering a culture of innovation and continuous improvement.
 
-Excelled in environments
-demanding proficiency in cloud architectures and DevOps practices, alongside a
-commitment to continuous improvement and innovation
 
 ## 🛠️ Skills & Technologies
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
