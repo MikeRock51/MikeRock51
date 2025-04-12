@@ -1,7 +1,7 @@
 # 👨‍💻 Michael Adebayo
 
 ## 👋 About Me
-Experienced Backend Engineer with a strong track record of optimizing system performance, enhancing scalability, and delivering robust backend solutions. Skilled in architecting and fine-tuning cloud-based infrastructures and databases to support high-performance applications. Adept at implementing DevOps best practices, driving continuous integration and delivery, and fostering a culture of innovation and continuous improvement.
+Passionate Backend Engineer with a strong track record of optimizing system performance, enhancing scalability, and delivering robust backend and fullstack solutions. Skilled in architecting and fine-tuning cloud-based infrastructures and databases to support high-performance applications. Adept at implementing DevOps best practices, driving continuous integration and delivery, and fostering a culture of innovation and continuous improvement.
 
 
 ## 🛠️ Skills & Technologies
